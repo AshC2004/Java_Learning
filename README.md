@@ -1,4 +1,4 @@
-📘 Java Learning
+# 📘 Java Learning
 Welcome to my Java Learning repository!
 This repo documents my journey as I re-learn Java from scratch — covering the basics to advance concepts, writing small programs, and gradually building more projects.
 
