@@ -82,7 +82,7 @@ Copy
 
 Edit
 
-git clone https://github.com/<your-username>/Java-Learning.git
+git clone https://github.com/AshC2004/Java_Learning
 
 Open it in IntelliJ (File > Open > Select folder)
 
