@@ -22,13 +22,8 @@ This repo documents my journey as I re-learn Java from scratch — covering the 
 
 🗂️ Folder Structure
 
-nginx
 
-Copy
-
-Edit
-
-Java Learning/
+Java_Learning/src
 
 ├── HelloWorld.java
 
